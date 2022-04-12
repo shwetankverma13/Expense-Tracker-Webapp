@@ -8,3 +8,9 @@ Additionally, both the spent money and income will be displayed on the app page 
 
 
 Visit the Website - https://income-and-expense-of-money-tracker.netlify.app/
+
+
+#Installation 
+load the node modules - npm i
+build the project - npm run build
+launch the application - npm start 
