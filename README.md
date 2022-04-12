@@ -9,6 +9,8 @@ Additionally, both the spent money and income will be displayed on the app page 
 
 Visit the Website - https://income-and-expense-of-money-tracker.netlify.app/
 
+# Demonstration 
+![](https://github.com/shwetankverma13/Expense-Tracker-Webapp/blob/main/Expense-Tracker-Video-Summary.mp4)
 
 # Installation and Setup 
 
