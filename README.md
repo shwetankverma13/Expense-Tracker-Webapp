@@ -16,7 +16,7 @@ Visit the Website - https://income-and-expense-of-money-tracker.netlify.app/
 
 # Screenshots
 <p align="center">
-  <img height="400px" width="800px" src="/S1.jpg">
+  <img height="400px" width="800px" src="/2022-06-19.png">
 </p>
 
 
