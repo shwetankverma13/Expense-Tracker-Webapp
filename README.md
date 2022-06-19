@@ -14,6 +14,12 @@ Visit the Website - https://income-and-expense-of-money-tracker.netlify.app/
 # Demonstration 
 [Click Here For the Demonstration](https://drive.google.com/file/d/1FhhOIr7NrYwmgjoM9bSflbL8QqdxSH1u/view?usp=sharing)
 
+# Screenshots
+<p align="center">
+  <img height="400px" width="800px" src="/S1.jpg">
+</p>
+
+
 # Installation and Setup 
 
 load the node modules -
